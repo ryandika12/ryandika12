@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "633ab48a2dba1cc29eb7c098"
+  },
+  "nama_tanaman": "Jahe",
+  "nama_latin": "Zingiber",
+  "gambar": "01.png",
+  "khasiat": "Mengobati penyakit rematik, mual-mual, mabuk perjalanan, batuk, pegal-pegal, kepala pusing, sakit saat menstruasi, nyeri lambung, asma, nyeri otot, impoten, kanker, diabetes, penyakit jantung, bronchitis, osteorhitis, flu, demam, gangguan pencernaan, Alzheimer, dll.",
+  "pengolahan": "123",
+  "deskripsi": "Jahe merupakan tanaman rempah yang berasal dari Asia Selatan dan telah tersebar ke seluruh dunia. Di Yunani, jahe digunakan sebagai obat herbal untuk mengatasi vertigo, mual, dan mabuk perjalanan (Goulart, 1995)",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664791690137"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664791690137"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633abeee9fe19e7553e54cd0"
+  },
+  "nama_tanaman": "Kunyit",
+  "nama_latin": "Curcuma longa Linn",
+  "gambar": "02.png",
+  "khasiat": "Dapat mengobati penyakit demam, pilek dengan hidung tersumbat, rematik, diare, disentri, gatal-gatal pada kulit, bengkak, bau badan, malaria, panas dalam atau sariawan usus, sariawan mulut",
+  "pengolahan": "-",
+  "deskripsi": "Kunyit atau Curcuma longa Linn, merupakan tanaman yang banyak terdapat di benua Asia dan dianggap sebagai bahan antibiotic terbaik untuk memudahkan proses pencernaan dan memperbaiki perjalanan usus",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664794350495"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664794350495"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633abfd49fe19e7553e54cd2"
+  },
+  "nama_tanaman": "Kencur",
+  "nama_latin": "Kaempferia galanga",
+  "gambar": "03.png",
+  "khasiat": "Mengobati diare, malnutrisi, rematik, sakit maag, batuk, asma, gangguan saluran pencernaan, demam; Meningkatkan stamina; Minuman ibu pasca melahirkan; Bahan sauna tradisional",
+  "pengolahan": "-",
+  "deskripsi": "Kencur merupakan sebuah tanaman obat penting bagi masyarakat Asia termasuk Indonesia. Oleh masyarakat Indonesia, kencur digunakan sebagai bahan jamu atau yang dikenal dengan jamu beras kencur dan sebagai bumbu masak (Silalahi, 2019)",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664794580942"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664794580942"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633ac0be237e3c26701280b4"
+  },
+  "nama_tanaman": "Temulawak",
+  "nama_latin": "Curcuma xanthoriza Roxb",
+  "gambar": "04.png",
+  "khasiat": "Kandungan minyak asiri sebagai obat rematik; Rimpang temulawak sebagai sekresi empedu; Digunakan untuk pengobatan gangguan fungsi hati (lever); Pengobatan koletiasis, kolesistis, dan kerusakan pada hati; Sebagai anti-inflamasi atau anti radang; Menurunkan kadar kolesterol; Meningkatkan kadar lipoprotein densitas tinggi (HDL) kolesterol; Menambah nafsu makan; Menyembuhkan sakit maag; Memperbanyak ASI",
+  "pengolahan": "-",
+  "deskripsi": "Temulawak termasuk tanaman yang masuk ke dalam famili Zingiberaceae. Temulawak termasuk jenis temuan yang tidak dapat dipisahkan dari kehidupan masyarakat Asia Tenggara termasuk Indonesia dan dimanfaatkan untuk berbagai keperluan",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664794814987"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664794814987"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633ac10f237e3c26701280b6"
+  },
+  "nama_tanaman": "Daun Kumis Kucing",
+  "nama_latin": "Orthosipon stamineus",
+  "gambar": "0.png",
+  "khasiat": "Mengobati batu ginjal; Mengatasi rematik",
+  "pengolahan": "-",
+  "deskripsi": "Daun kumis kucing umunya digunakan sebagai tanaman obat keluarga karena kandungan senyawa bioaktif yang terkandung di dalamnya. Penelitian pada jurnal “Cytotoxic Potentials Of Orthosiphon stamineus Leaf Extracts Against Pathogenic Bacteria And Colon Cancer Cells, Asian Journal of Science and Technology” Tahun 2014 menunjukkan bahwa ekstrak etil asetat daun kumis kucing mampu menghambat bakteri patogen (Peudumonas aeruginosa, Aeromonas hydrophilla, Staphylococcus aureus) dan sel kanker kolon",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664794895745"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664794895745"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633ac167237e3c26701280b8"
+  },
+  "nama_tanaman": "Daun Salam",
+  "nama_latin": "Eugenia polyantha",
+  "gambar": "06.png",
+  "khasiat": "Sebagai obat sakit perut; Menghentikan buang air besar yang berlebihan; Mengatasi asam urat, kolesterol tinggi, stroke; Melancarkan peredaran darah; Mengatasi radang lambung; Menyembuhkan gatal-gatal",
+  "pengolahan": "-",
+  "deskripsi": "Daun Salam dikenal sebagai tanaman obat di Indonesia dan juga sebagai penyedap masakan. Daun salam memiliki kandungan senyawa seperti niasin, serat, tannin, dan vitamin C yang diketahui mampu menurunkan kadar trigliserida serum. Keberadaan tanaman ini pun dimanfaatkan sebagai obat alternatif",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664794983624"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664794983624"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633acd7e237e3c26701280ba"
+  },
+  "nama_tanaman": "Jeruk Nipis",
+  "nama_latin": "Citrus aurantifolia",
+  "gambar": "0.png",
+  "khasiat": "Sebagai antibakteri; Sebagai antioksidan; Sebagai anti kanker; Pemutih gigi; Anti kolesterol; Menurunkan gula darah; Mengurangi resiko penyakit jantung",
+  "pengolahan": "-",
+  "deskripsi": "Jeruk nipis diduga berasal dari India Utara yang berbatasan dengan Myanmar, atau Malaysia di bagian utara. Namun, menurut Swingle, jeruk nipis berasal dari kepulauan di Asia Tenggara. Jeruk nipis biasanya dipasarkan dalam bentuk segar. Kandungan senyawa didalamnya antara lain senyawa saponin dan flavonoid, yaitu hesperidin (hesperitin 7-rutinosida), eriocitrocide tangeretin, naringin, eriocitrin, asam sitrat, asam amino, dan masih banyak lagi",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664798078288"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664798078288"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633ace6f237e3c26701280bc"
+  },
+  "nama_tanaman": "Sambiloto",
+  "nama_latin": "Andrographis paniculata",
+  "gambar": "08.png",
+  "khasiat": "Disentri atau diare, Mengobati tifus, Meredakan radang saluran napas dan radang paru, Mengatasi batuk rejan, TBC Paru; Darah Tinggi; Sariawan; Infeksi telinga tengah",
+  "pengolahan": "-",
+  "deskripsi": "Sambiloto termasuk tumbuhan herbal yang termasuk dalam keluarga Acathaceae. Sambiloto mengandung lactone, flavonoid, alkane, keton, aldehid, mineral (kalium, kalsium, dan natirum), asam kersik, serta damar. Herb aini memiliki rasa pahit dan dingin. ",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664798319829"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664798319829"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633acf18237e3c26701280be"
+  },
+  "nama_tanaman": "Jati Belanda",
+  "nama_latin": "Guazuma ulmifolia Lamk",
+  "gambar": "09.png",
+  "khasiat": "Mengatasi sembelit (konstipasi); Menurunkan berat badan; Mengobati batuk",
+  "pengolahan": "-",
+  "deskripsi": "Jati Belanda biasanya dikenal dengan jati londo atau jati sabrang. Bagian yang digunakan untuk herbal dianatranya daun, buah, biji, dan kulit dalamnya. Tumbuhan ini memiliki berbagai kandungan kimia diantaranya asam damar dan zat samak serta daun, buah, dan bijinya mengandung zat pahit, glikose, minyak lemak, triterpene atau sterol, alkaloid, karotenoid, flafonoid, tannin, karbohidrat, dan saponin.",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664798488947"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664798488947"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633ad42079ef153253b8918d"
+  },
+  "nama_tanaman": "Daun Kelor",
+  "nama_latin": "Moringa oleifera",
+  "gambar": "10.png",
+  "khasiat": "Mengobati sakit kuning atau lever; Mengobati rematik, encok, pegal linu; Mengobati rabun ayam; Mengatasi sakit mata;Mengatasi sukar buang air kecil; mengatasi alergi atau biduran; Mengobati cacingan dan luka bernanah",
+  "pengolahan": "nurul",
+  "deskripsi": "Kelor merupakan tumbuhan batang berkayu atau lignosus, tegak, berwarna putih kotor, kulit tipis, permukaan kasar. Buah kelor berbentuk panjang bersegi tiga dengan panjang sekitar 20 sampai 60cm dan biasanya tumbuh di dataran rendah maupun dataran tinggi sampai ketinggian kurang lebih 1000mdpl",
+  "validate": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664799776175"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664799776175"
+    }
+  },
+  "__v": 0
+}]

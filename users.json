@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "633adda559bbdefd3deae462"
+  },
+  "namaLengkap": "Nurul Magfirah Tenriajeng",
+  "userName": "nurulmt",
+  "email": "nurulmt@gmail.com",
+  "password": "$2a$10$r2aRyBxQ/76jB2hRLfZm6Oes49RD0piS/dIixZqxctBHeWz9vhP2i",
+  "admin": true,
+  "__v": 0
+}]
